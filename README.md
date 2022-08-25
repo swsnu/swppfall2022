@@ -25,7 +25,7 @@ There may be some changes to the schedule.
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
 |10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | HW3(feature) due 10/6 6pm, <br/> Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
 |10/11, 13 | Taming complexity; defensive programming; Design patterns | Frontend Q&A | HW4 out 10/12, <br/> HW3(testing) due 10/13 6pm  |
-|10/18, 20 | Design patterns | Django | HW3(testing) due 10/14 6pm, <br/> Project sprint 2 begin |
+|10/18, 20 | Design patterns | Django | Project sprint 2 begin |
 |10/25, 27 | Design patterns; code refactoring | Django + Python Testing |  |
 |11/1, 3 | Operation | Integration + CI + SonarCloud | HW4 due 11/3 6pm, <br/> Project sprint 3 begin |
 |11/8, 10 | Operation, Mid-presentation | Design Pattern | |
