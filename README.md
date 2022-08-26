@@ -4,7 +4,7 @@
 - [ ] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
 - [ ] [HW2](hw2) out: 9/7 (Wed); due 9/16 (Fri) 6pm
 - [ ] Team formation due 9/13 (Tue) 6pm
-- [ ] [HW3](hw3) out: 9/14 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
+- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
 - [ ] Project proposal due 9/28 (Wed) 6pm
 - [ ] [HW4](hw4) out: 10/12 (Wed); due 10/27 (Thur) 6pm
 
@@ -20,8 +20,8 @@ There may be some changes to the schedule.
 |-------|---------|------------------|---------------------------|
 |9/1 | Course overview |  | HW1 out 9/1 |
 |9/6, 8| Challenges to make software; Version control | Environment Setup + Python + HTML/TypeScript  | HW2 out 9/7, <br/> HW1 due 9/9 6pm |
-|9/13, 15| SaaS architecture; Building software; ORM | Git |  Team formation due 9/13 6pm, <br/> HW3 out 9/14, <br/> HW2 due 9/16 6pm |
-|9/20, 22| Project sprints; Requirements and specification | React |  |
+|9/13, 15| SaaS architecture; Building software; ORM | Git |  Team formation due 9/13 6pm, <br/> HW2 due 9/16 6pm |
+|9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
 |10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | HW3(feature) due 10/6 6pm, <br/> Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
 |10/11, 13 | Taming complexity; defensive programming; Design patterns | Frontend Q&A | HW4 out 10/12, <br/> HW3(testing) due 10/13 6pm  |
