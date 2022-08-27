@@ -1,12 +1,12 @@
 # M1522.002400 Principles and Practices of Software Development
 
 ## Announcements
-- [ ] [HW1](hw1) out: 9/7 (Wed); due 9/15 (Thur) 6pm
-- [ ] [HW2](hw2) out: 9/14 (Wed); due 9/22 (Thur) 6pm
-- [ ] Team formation due 9/13 (Thur) 6pm
-- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/13 (Thur) 6pm (Feature), 10/20 (Thur) 6pm (Testing)
-- [ ] Project proposal due 9/28 (Thur) 6pm
-- [ ] [HW4](hw4) out: 10/19 (Wed); due 11/10 (Thur) 6pm
+- [ ] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
+- [ ] [HW2](hw2) out: 9/7 (Wed); due 9/19 (Mon) 6pm
+- [ ] Team formation due 9/13 (Tue) 6pm
+- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
+- [ ] Project proposal due 9/28 (Wed) 6pm
+- [ ] [HW4](hw4) out: 10/19 (Wed); due 11/3 (Thur) 6pm
 
 ## [Project Guideline](project)
 
@@ -18,22 +18,23 @@ There may be some changes to the schedule.
 
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
 |-------|---------|------------------|---------------------------|
-|9/2 | Course overview | Environment Setup + Python + HTML/Javascript (DOM) | HW1 out 9/2 |
-|9/7,9| Challenges to make software; Version control | Git | HW2 out 9/9, <br/> HW1 due 9/10 6pm, <br/> Team formation due 9/12 (Sun) 6pm |
-|9/14,16 | SaaS architecture; Building software; ORM | React | HW2 due 9/17 6pm, <br/>  HW3 out 9/17|
-|9/23 | Project sprints; Requirements and specification;  | Redux | Project proposal due 9/24 6pm |
-|9/28, 30 | Testing | Frontend Testing (Jest + Enzyme) | |
-|10/5,7 | Software development process; Design patterns | Frontend Q&A | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3(feature) due 10/7 6pm|
-|10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW3(testing) due 10/14 6pm |
-|10/19,21 | Design patterns | Django + Python Testing | HW4 out 10/15, <br/> Project sprint 2 begin |
-|10/26,28 | Design patterns; code refactoring | Integration + CI + SonarCloud | |
-|11/2,4 | Operation | Design Pattern | HW4 due 11/4 6pm, <br/> Project sprint 3 begin |
-|11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11. |
-|11/16,18 | ML pipeline | Deployment | Project sprint 4 begin |
-|11/23,25 | ML pipeline | Code Refactoring + Optimization | |
-|11/30,12/2 | Operation | Final Exam 12/2 | Coding exams (Minimum 4 hours), <br/> Project sprint 5 begin |
-|12/7,9 | TBD | Testing Session | |
-|12/17 | Project poster session | | Project final report (due 12/17 6pm) |
+|9/1 | Course overview |  | HW1 out 9/1 |
+|9/6, 8| Challenges to make software; Version control | Environment Setup + Python + HTML/TypeScript  | HW2 out 9/7, <br/> HW1 due 9/9 6pm |
+|9/13, 15| SaaS architecture; Building software; ORM | Git |  Team formation due 9/13 6pm, <br/> HW2 due 9/16 6pm |
+|9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
+|9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
+|10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | HW3(feature) due 10/6 6pm, <br/> Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
+|10/11, 13 | Taming complexity; defensive programming; Design patterns | Frontend Q&A | HW3(testing) due 10/13 6pm  |
+|10/18, 20 | Design patterns | Django | HW4 out 10/19, <br/> Project sprint 2 begin |
+|10/25, 27 | Design patterns; code refactoring | Django + Python Testing |  |
+|11/1, 3 | Operation | Integration + CI + SonarCloud | HW4 due 11/3 6pm, <br/> Project sprint 3 begin |
+|11/8, 10 | Operation, Mid-presentation | Design Pattern | |
+|11/15, 17 | ML pipeline | Project Mid Presentation | The mid presentation session will be on 11/16, <br/> Project sprint 4 begin |
+|11/22, 24 | ML pipeline | Deployment | Project sprint 4 begin |
+|11/29, 12/1 | Operation | Code Refactoring + Optimization | Project sprint 5 begin |
+|12/6, 8 | TBD | Final Exam 12/6 | Coding exams (Minimum 4 hours) |
+|12/13, 15 | Project poster session | Testing Session | |
+|12/21 | | | Project final report (due 12/21 6pm) |
 
 ## Online Office Hours
 **Professor** : 
@@ -56,8 +57,21 @@ Jongsun Yun
   - Email: titieiti@snu.ac.kr
   - Office: Bldg. 302, Rm. 420
   - Office hour: (TBD)
+  
+Minjae Kim
+  - Email: aingo03304@snu.ac.kr
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: (TBD)
 
-(Please send TAs an email ahead of time, we can set up a specific time and place)
+(TAs' private email is only for scheduling of bi-weekly sprints.)
 
+**Contacts**
+
+SWPP Staff (Professor & TAs)
+  - Email: swpp.22.staff@spl.snu.ac.kr
+
+SWPP TA (TAs only)
+  - Email: swpp.22.ta@spl.snu.ac.kr
+ 
 ## Project Teams
 (TBD)
