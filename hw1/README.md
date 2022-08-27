@@ -184,8 +184,8 @@ Also, make sure to push your work on Github on time.
 
 1. Go to your github profile: `https://github.com/USERNAME`.
 2. Under `Repositories`, click on `New`.
-3. Fill in `swpp-hw1-USERNAME` as your repository name, and mark it as `Private`. (e.g., `swpp-hw1-kdh0102`)
-    * **You will get points deducted by setting your repository format wrong (e.g., swpp_hw1_kdh0102 (X)).**
+3. Fill in `swpp-hw1-USERNAME` as your repository name, and mark it as `Private`. (e.g., `swpp-hw1-jaewooMaeng`)
+    * **You will get points deducted by setting your repository format wrong (e.g., swpp_hw1_jaewooMaeng (X)).**
     * **If you make your repository public, you will get 0 point for the HW1.**
 4. Click `Create repository`.
 5. In terminal, go to the directory that you will be working in (e.g., `~/workspace/swpp-hw1-USERNAME` or `~/swpp-hw1-USERNAME`)
