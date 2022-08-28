@@ -65,8 +65,6 @@ Minjae Kim
   - Office: Bldg. 302, Rm. 420
   - Office hour: (TBD)
 
-(TAs' private email is only for scheduling of bi-weekly sprints.)
-
 **Contacts**
 
 SWPP Staff (Professor & TAs)
