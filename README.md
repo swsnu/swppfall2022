@@ -6,7 +6,9 @@
 - [ ] Team formation due 9/13 (Tue) 6pm
 - [ ] [HW3](hw3) out: 9/21 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
 - [ ] Project proposal due 9/28 (Wed) 6pm
-- [ ] [HW4](hw4) out: 10/19 (Wed); due 11/3 (Thur) 6pm
+- [ ] [HW4](hw4) out: 10/12 (Wed); due 10/27 (Thur) 6pm
+- [ ] Final exam: 11/30 (Wed)
+- [ ] Poster session: 12/14(Wed) 
 
 ## [Project Guideline](project)
 
@@ -24,16 +26,16 @@ There may be some changes to the schedule.
 |9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
 |10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | HW3(feature) due 10/6 6pm, <br/> Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
-|10/11, 13 | Taming complexity; defensive programming; Design patterns | Frontend Q&A | HW3(testing) due 10/13 6pm  |
-|10/18, 20 | Design patterns | Django | HW4 out 10/19, <br/> Project sprint 2 begin |
-|10/25, 27 | Design patterns; code refactoring | Django + Python Testing |  |
-|11/1, 3 | Operation | Integration + CI + SonarCloud | HW4 due 11/3 6pm, <br/> Project sprint 3 begin |
-|11/8, 10 | Operation, Mid-presentation | Design Pattern | |
-|11/15, 17 | ML pipeline | Project Mid Presentation | The mid presentation session will be on 11/16, <br/> Project sprint 4 begin |
-|11/22, 24 | ML pipeline | Deployment | Project sprint 4 begin |
-|11/29, 12/1 | Operation | Code Refactoring + Optimization | Project sprint 5 begin |
-|12/6, 8 | TBD | Final Exam 12/6 | Coding exams (Minimum 4 hours) |
-|12/13, 15 | Project poster session | Testing Session | |
+|10/11, 13 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/19, <br/> HW3(testing) due 10/13 6pm  |
+|10/18, 20 | Design patterns | Django + Python Testing | Project sprint 2 begin |
+|10/25, 27 | Design patterns; code refactoring | Integration + CI + SonarCloud | HW4 due 10/27 6pm |
+|11/1, 3 | Operation | Design Pattern | Project sprint 3 begin |
+|11/8, 10 | Operation, Mid-presentation | Project Mid Presentation | |
+|11/15, 17 | ML pipeline | Deployment | Project sprint 4 begin |
+|11/22, 24 | ML pipeline | Code Refactoring + Optimization |  |
+|11/29, 12/1 | Operation | Final Exam 11/30 | Project sprint 5 begin |
+|12/6, 8 | TBD | Testing Session |  |
+|12/13, 15 | TBD | Poster Session 12/14 | |
 |12/21 | | | Project final report (due 12/21 6pm) |
 
 ## Online Office Hours
@@ -48,7 +50,7 @@ Jaewoo Maeng
   - Office: Bldg. 302, Rm. 420
   - Office hour: (TBD)
 
-Junyul Ryu
+Junyeol Ryu
   - Email: gajagajago@snu.ac.kr
   - Office: Bldg. 302, Rm. 420
   - Office hour: (TBD)
