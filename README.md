@@ -21,7 +21,7 @@ There may be some changes to the schedule.
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
 |-------|---------|------------------|---------------------------|
 |9/1 | Course overview |  | HW1 out 9/1 |
-|9/6, 8| Challenges to make software; Version control | Environment Setup + Python + HTML/TypeScript  | HW2 out 9/7, <br/> HW1 due 9/9 6pm |
+|9/6, 8| Challenges to make software; Version control | Docker + Python + HTML/TypeScript  | HW2 out 9/7, <br/> HW1 due 9/9 6pm |
 |9/13, 15| SaaS architecture; Building software; ORM | Git |  Team formation due 9/13 6pm, <br/> HW2 due 9/16 6pm |
 |9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
