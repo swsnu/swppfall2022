@@ -110,11 +110,11 @@ The content of the csv file should be as follows:
 ```
 $ tail -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
 2018,991,Valery,F,
-2018,992,Aiyana,F,145
+2018,992,Aiyana,F,147
 2018,993,Azaria,F,
-2018,994,Kailyn,F,91
-2018,995,Keilani,F,
-2018,996,Evalyn,F,45
+2018,994,Evalyn,F,42
+2018,995,Kailyn,F,92
+2018,996,Keilani,F,
 2018,997,Whitley,F,
 2018,998,Austyn,F,
 2018,999,Danica,F,128
