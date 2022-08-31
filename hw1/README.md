@@ -39,7 +39,8 @@ In this assignment, you will get familiar with:
 You need to implement the `fetch.py` file that sends a request to fetch the HTML files from the [Social Security Administration website](https://www.ssa.gov/cgi-bin/popularnames.cgi), which provides neat data on each year's most popular names for newborn babies in the US. We will extract HTML files ranging from 2001 to 2018. After fetching the files, you should save them under `babydata` directory. The expected HTML files are given for reference under `babydata` directory. HTML files generated from your script should **be identical** to example HTML files under `babydata`. To complete the script, you should implement the following functions:
 
 **1) `fetch_top_1000`**
-This method receives the year of interest and the target webpage's url and returns the contents of the html file fetched from the given webpage. Use `urllib` to fetch the html file. Refer to [python documentation](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) for more information on `urllib`.
+This method receives the year of interest and the target webpage's url and returns the contents of the html file fetched from the given webpage. Use `urllib` to fetch the html file. Refer to [python documentation](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen) for more information on `urllib`. (Hint: You may explore the [official babynames website](https://www.ssa.gov/oact/babynames/) and try sending requests. Send a request with Chrome network tab open, and then by inspecting the request with the Chrome network tab, you will be able to find which items are required in the body field.) <br/>
+<img src=./chrome_body_example/chrome_network_inspect_example.png width=1000px>
 
 **2) `safe_internet_fetch`**
 You need to implement a decorator that checks whether the request was successful. This decorator will decorate the `fetch_top_1000` function to handle the situations where fetching fails due to an invalid url or unstable internet connection by throwing `BabyFetchException`.
@@ -109,11 +110,11 @@ The content of the csv file should be as follows:
 ```
 $ tail -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
 2018,991,Valery,F,
-2018,992,Aiyana,F,145
+2018,992,Aiyana,F,147
 2018,993,Azaria,F,
-2018,994,Kailyn,F,91
-2018,995,Keilani,F,
-2018,996,Evalyn,F,45
+2018,994,Evalyn,F,42
+2018,995,Kailyn,F,92
+2018,996,Keilani,F,
 2018,997,Whitley,F,
 2018,998,Austyn,F,
 2018,999,Danica,F,128
