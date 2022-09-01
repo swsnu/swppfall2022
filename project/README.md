@@ -32,11 +32,11 @@ Note : Every document for each milestones must be written in **English**!
 ## Project Timeline
 | | Start | End | TA meeting |
 |-|-------|-----|------------|
-| Sprint 1 | Oc1. 5 (Tue)| Oct. 16 (Sat), 6pm(report due) | TH/F |
-| Sprint 2 | Oct. 18 (Mon)| Oct. 30 (Sat), 6pm(report due) | TH/F |
-| Sprint 3 | Nov. 1 (Mon)| Nov. 13 (Sat), 6pm(report due) | TH/F |
-| Project progress presentation | Nov. 11 | | |
-| Sprint 4 | Nov. 15 (Mon)| Nov. 27 (Sat), 6pm(report due) | TH/F |
-| Sprint 5 | Nov. 29 (Mon)| Dec. 11 (Sat), 6pm(report due) | TH/F |
-| Final poster | Dec. 16 (Thu) | | |
-| Final report |  | Dec. 17 (Fri) 6pm | |
+| Sprint 1 | Oc1. 4 (Tue)| Oct. 15 (Sat), 6pm(report due) | TH/F |
+| Sprint 2 | Oct. 17 (Mon)| Oct. 29 (Sat), 6pm(report due) | TH/F |
+| Sprint 3 | Oct. 31 (Mon)| Nov. 12 (Sat), 6pm(report due) | TH/F |
+| Project progress presentation | Nov. 9 | | |
+| Sprint 4 | Nov. 14 (Mon)| Nov. 26 (Sat), 6pm(report due) | TH/F |
+| Sprint 5 | Nov. 28 (Mon)| Dec. 10 (Sat), 6pm(report due) | TH/F |
+| Final poster | Dec. 14 (Thu) | | |
+| Final report |  | Dec. 21 (Fri) 6pm | |
