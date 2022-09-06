@@ -212,7 +212,7 @@ The functions in `app.ts` will be graded. We will see the outputs to validate yo
 
 ## Submission
 
-**Due: 9/17 (Fri) 18:00 (This is a hard deadline)**
+**Due: 9/19 (Mon) 18:00 (This is a hard deadline)**
 
 We will check the snapshot of the *main* branch of your Github repository at the deadline and grade it. As you already did in hw1, create a **private** repository with name `swpp-hw2-{USERNAME}` and invite `swpp-tas` as your collaborator in the repository settings! Your repository should look like below:
 
