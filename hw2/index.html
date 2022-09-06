@@ -1,0 +1,136 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+        <title>Babyname Search Engine!</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="/materialize/css/materialize.min.css">
+        <link rel="stylesheet" href="base.css">
+        <!-- Compiled and minified JavaScript -->
+        <script src="/materialize/js/materialize.min.js"></script>
+        <script src="/chart/chart.min.js"></script>
+        <script src="base.js"></script>
+        <script src="app.js"></script>
+    </head>
+    <body>
+        <header>
+            <div>
+                SWPP 2022
+            </div>
+        </header>
+        <div style="text-align: center; padding-bottom: 2em">
+            <div>
+                <img src="data:image/png;base64,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">
+            </div>
+            <h6>
+                SWPP Babyname Search Engine
+            </h6>
+        </div>
+
+        <section id="list-section" class="container">
+            <div class='row'>
+                <div class="input-field col s4">
+                    <select id="year-select"></select>
+                    <label>Year Filter</label>
+                </div>
+                <div class='input-field col s4 right'>
+                    <a id="to-bottom" class="waves-effect waves-light btn right">to Bottom</a>
+                </div>
+            </div>
+            <table>
+                <thead>
+                  <tr>
+                      <th>Rank</th>
+                      <th>Male</th>
+                      <th><i class='material-icons'>swap_vert</i></th>
+                      <th>Female</th>
+                      <th><i class='material-icons'>swap_vert</i></th>
+                  </tr>
+                </thead>
+                <tbody id="ranking-table">
+                  <tr id="template-row-record" style="display: none">
+                    <td class='rank'>1</td>
+                    <td class='male-name'>
+                        <a href="#">Eclair</a>
+                    </td>
+                    <td class='male-rank-change'>
+                        <i class="material-icons">arrow_upward</i><span>3</span>
+                    </td>
+                    <td class='female-name'>
+                        <a href="#">Christina</a>
+                    </td>
+                    <td class='female-rank-change'><i class="material-icons">arrow_downward</i><span>3</span></td>
+                  </tr>
+                  <tr id="template-row-chart" class="row-chart" style="display: none">
+                      <td colspan="5"><canvas class="chart"></canvas></td>
+                  </tr>
+                </tbody>
+            </table>
+
+            <div class='input-field row'>
+                <a id="to-top" class="waves-effect waves-light btn right">scroll up</a>
+            </div>
+        </section>
+        <footer class="page-footer">
+            <div class="container">
+              <div class="row">
+                <div class="col l6 s12">
+                  <h5 class="white-text">If you want to tune in, sign up!</h5>
+                  <div class="">
+                    <div class="row">
+                        <form id="signup-form" class="col s12 card z-depth-3" >
+                          <div class="row">
+                            <div class="input-field col s6">
+                              <input name="first-name" type="text" class="validate ">
+                              <label for="first-name">First Name</label>
+                              <span class="helper-text" data-error="wrong"></span>
+                            </div>
+                            <div class="input-field col s6">
+                              <input name="last-name" type="text" class="validate">
+                              <label for="last-name">Last Name</label>
+                              <span class="helper-text" data-error="wrong"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="input-field col s12">
+                              <input name="email" type="text" class="validate">
+                              <label for="email">Email</label>
+                              <span class="helper-text" data-error="wrong"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="input-field col s12">
+                              <input name="date-of-birth" type="text" class="validate" placeholder="1994-07-13">
+                              <label for="email">Date of birth</label>
+                              <span class="helper-text" data-error="wrong"></span>
+                            </div>
+                          </div>
+                          <button id="signup-form-submit" class="btn waves-effect waves-light red" type="submit" name="action">
+                            <i class="material-icons left">favorite</i>
+                              Sign Up
+                          </button>
+                        </form>
+                      </div>
+                  </div>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Web Development Materials</h5>
+                <ul>
+                    <li><a class="grey-text text-lighten-3" target='_blank' href="https://stackoverflow.com/">Stack Overflow</a></li>
+                    <li><a class="grey-text text-lighten-3" target='_blank' href="http://medium.com/">Medium</a></li>
+                    <li><a class="grey-text text-lighten-3" target='_blank' href="https://github.com/">Github</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="footer-copyright">
+              <div class="container">
+              © 2022 SWPP TA Team
+              </div>
+            </div>
+          </footer>
+
+
+    </body>
+</html>

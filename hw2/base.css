@@ -1,0 +1,17 @@
+.male-rank-change, .female-rank-change {
+    vertical-align: middle;
+}
+header {
+    background: #1e1e1e;
+    color: #eee;
+    padding: 0.5em 1.5em;
+}
+
+#list-section {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#signup-form {
+    padding: 2.5em;
+}

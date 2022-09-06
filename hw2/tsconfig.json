@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "strictNullChecks": true,
+    "outDir": "./built",
+    "sourceMap": true
+  },
+  "include": ["**/*"],
+  "exclude": ["node_modules"]
+}
