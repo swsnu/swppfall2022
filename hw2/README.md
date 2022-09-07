@@ -1,4 +1,4 @@
-# Homework 2 - JavaScript Basics
+# Homework 2 - TypeScript Basics
 
 **Out: 9/7 (Wed)**
 **Due: 9/19 (Mon) 18:00 (This is a hard deadline)**
