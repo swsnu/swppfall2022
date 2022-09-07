@@ -137,7 +137,7 @@ By clicking the sign-up button, `handleSignUpFormSubmit` will conduct form check
 - First name (English) : Start with a capital letter, followed by one or more lowercase letters. Should only contain alphabets (A-Z, a-z)
 - Last name (English) : Start with a capital letter, followed by one or more lowercase letters. Should only contain alphabets (A-Z, a-z)
 - Date of birth: The format should be YYYY-MM-DD.
-  - YYYY (Year) : Must be a number between 1900 and 2020 (inclusive).
+  - YYYY (Year) : Must be a number between 1900 and 2022 (inclusive).
   - MM (Month) : Must be a number with two digits between 01 and 12.
   - DD (Date) : Must be a number with two digits between 01 and 31.
 
