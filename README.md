@@ -1,7 +1,7 @@
 # M1522.002400 Principles and Practices of Software Development
 
 ## Announcements
-- [ ] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
+- [x] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
 - [ ] [HW2](hw2) out: 9/7 (Wed); due 9/19 (Mon) 6pm
 - [ ] Team formation due 9/13 (Tue) 6pm
 - [ ] [HW3](hw3) out: 9/21 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
