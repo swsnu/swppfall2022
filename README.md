@@ -48,17 +48,17 @@ There may be some changes to the schedule.
 Jaewoo Maeng
   - Email: jwmaeng@snu.ac.kr
   - Office: Bldg. 302, Rm. 420
-  - Office hour: (TBD)
+  - Office hour: Tue 13:00 ~ 14:00
 
 Junyeol Ryu
   - Email: gajagajago@snu.ac.kr
   - Office: Bldg. 302, Rm. 420
-  - Office hour: (TBD)
+  - Office hour: Fri 13:00 ~ 14:00
 
 Jongsun Yun
   - Email: titieiti@snu.ac.kr
   - Office: Bldg. 302, Rm. 420
-  - Office hour: (TBD)
+  - Office hour: Thur 13:00 ~ 14:00
   
 Minjae Kim
   - Email: aingo03304@snu.ac.kr
