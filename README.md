@@ -74,4 +74,4 @@ SWPP TA (TAs only)
   - Email: swpp.22.ta@spl.snu.ac.kr
  
 ## Project Teams
-(TBD)
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1Vb_QM-v6wQERfg9vwnF8BVCZ96XnUlcbutPiQAwQr74/edit#gid=0)
