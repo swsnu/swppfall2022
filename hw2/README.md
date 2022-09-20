@@ -72,6 +72,8 @@ Docker image for HW2 is on `snuspl/swpp:hw2`. Pull the image to start.
 docker pull snuspl/swpp:hw2
 ```
 
+You **MUST** clone your forked repository inside the docker container. The main reason is that Windows environment line breaks with `\r\n` while Linux environment line breaks with `\n` for CSV files. Therefore, you must clone the repository inside the docker container in order to mitigate such line break divergence. You are obliged to follow this instruction especially if you are an Windows user!  
+
 ### How To Start
 
 To open the website, you should run an HTTP server.
