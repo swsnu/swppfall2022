@@ -13,7 +13,7 @@ This assignment will help you
 - Make test suites for the React application you implement
 - Let you try out stuff we have learned in our practice sessions
 
-### Environment
+## Environment
 
 The grading will be conducted in a docker container so that all students' assignments run in the same environment.
 Thus, we encourage you to work on your homework using `snuspl/swpp:hw3` image that we uploaded to the dockerhub. 
