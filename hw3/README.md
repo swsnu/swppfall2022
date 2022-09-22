@@ -259,7 +259,7 @@ Please follow [the manual](How_to_deploy_homework_in_docker.pdf) to ensure your 
 - **Feature Implementation Due: 10/7 (Thu) 18:00**
 - **Testing Implementation Due: 10/14 (Thu) 18:00**
 
-We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
+We will check the snapshot of the *main* branch of your Github repository at the deadline and grade it.
 
 Please name your repository as `swpp-hw3-YOUR_USERNAME`, and replace YOUR_USERNAME with your own GitHub username. Please note that USERNAME is case-sensitive.
 Refer to HW1 to create another private repository.
