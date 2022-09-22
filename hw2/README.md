@@ -150,6 +150,8 @@ If users submit invalid data, the alert message should pop up and validation err
 - Email : "Invalid email"
 - Data of birth : "Invalid date of birth"
 
+If a field value is valid, the validation error message for the field must be **null**.
+
 Below is an example when you enter the wrong data into every field.
 
 <p align="center"><img src="images/invalid_example.png" width="500" alt="invalid form"></img></p>
