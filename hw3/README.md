@@ -256,8 +256,8 @@ Finally, since you have to implement many features, start early!
 ## Submission
 
 **Due: (These are hard deadlines)**
-- **Feature Implementation Due: 10/7 (Thu) 18:00**
-- **Testing Implementation Due: 10/14 (Thu) 18:00**
+- **Feature Implementation Due: 10/6 (Thu) 18:00**
+- **Testing Implementation Due: 10/13 (Thu) 18:00**
 
 We will check the snapshot of the *main* branch of your Github repository at the deadline and grade it.
 
