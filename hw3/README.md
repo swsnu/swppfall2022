@@ -16,7 +16,7 @@ This assignment will help you
 ## Environment
 
 The grading will be conducted in a docker container so that all students' assignments run in the same environment.
-Thus, you should work on your homework using `snuspl/swpp:hw3` image that we uploaded to the dockerhub. Run docker container with the following command. We will use one unified container for React frontend and Django backend. 
+Thus, you should work on your homework using `snuspl/swpp:hw3` image that we uploaded to the dockerhub. Run docker container with the following command. We will use one unified container for frontend and backend. 
 ```
 docker run --rm -it \
     --ipc=host \
