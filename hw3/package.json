@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "backend": "cp api/db.json api/_db.json && json-server --watch api/_db.json --routes api/routes.json --port 8000"
+    "backend": "cp api/db.json api/_db.json && json-server --watch api/_db.json --routes api/routes.json --port 8000 --host 0.0.0.0"
   },
   "eslintConfig": {
     "extends": [
