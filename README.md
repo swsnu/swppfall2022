@@ -14,7 +14,7 @@
 
 Please follow the guideline in this [link](project).
 
-## Schedule (TBD)
+## Schedule 
 
 There may be some changes to the schedule.
 
