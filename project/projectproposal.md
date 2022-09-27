@@ -12,7 +12,7 @@ In particular, your proposal should include:
 - what the system would do
 - how you will test and demo the system
 
-Send your proposal in pdf or doc to swpp-staff at spl.snu.ac.kr via email. 
+Send your proposal in pdf or doc to swpp.22.staff@spl.snu.ac.kr 
 
 Please write your proposal in *English*!
 
