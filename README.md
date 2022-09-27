@@ -8,7 +8,8 @@
 - [ ] Project proposal due 9/28 (Wed) 6pm
 - [ ] [HW4](hw4) out: 10/12 (Wed); due 10/27 (Thur) 6pm
 - [ ] Final exam: 11/30 (Wed)
-- [ ] Poster session: 12/14(Wed) 
+- [ ] Poster session: 12/14 (Wed) 
+- [ ] Final report: 12/19 6pm (Mon)
 
 ## [Project Guideline](project)
 
@@ -36,7 +37,7 @@ There may be some changes to the schedule.
 |11/29, 12/1 | Operation | Final Exam 11/30 | Project sprint 5 begin |
 |12/6, 8 | TBD | Testing Session |  |
 |12/13, 15 | TBD | Poster Session 12/14 | |
-|12/21 | | | Project final report (due 12/21 6pm) |
+|12/21 | | | Project final report (due 12/19 6pm) |
 
 ## Online Office Hours
 **Professor** : 
