@@ -4,7 +4,7 @@
 - [x] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
 - [x] [HW2](hw2) out: 9/7 (Wed); due 9/19 (Mon) 6pm
 - [x] Team formation due 9/13 (Tue) 6pm
-- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/6 (Thur) 6pm (Feature), 10/13 (Thur) 6pm (Testing)
+- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/12 (Wed) 12pm (Feature), 10/19 (Wed) 12pm (Testing)
 - [ ] Project proposal due 9/28 (Wed) 6pm
 - [ ] [HW4](hw4) out: 10/12 (Wed); due 10/27 (Thur) 6pm
 - [ ] Final exam: 11/30 (Wed)
@@ -26,9 +26,9 @@ There may be some changes to the schedule.
 |9/13, 15| SaaS architecture; Building software; ORM | Git |  Team formation due 9/13 6pm, <br/> HW2 due 9/16 6pm |
 |9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
-|10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | HW3(feature) due 10/6 6pm, <br/> Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
-|10/11, 13 | Taming complexity; defensive programming; Design patterns | Django | HW4 out 10/19, <br/> HW3(testing) due 10/13 6pm  |
-|10/18, 20 | Design patterns | Django + Python Testing | Project sprint 2 begin |
+|10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
+|10/11, 13 | Taming complexity; defensive programming; Design patterns | Django | HW3(feature) due 10/12 12pm |
+|10/18, 20 | Design patterns | Django + Python Testing | Project sprint 2 begin, <br/> HW3(testing) due 10/19 12pm, <br/> HW4 out 10/19  |
 |10/25, 27 | Design patterns; code refactoring | Integration + CI + SonarCloud | HW4 due 10/27 6pm |
 |11/1, 3 | Operation | Design Pattern | Project sprint 3 begin |
 |11/8, 10 | Operation, Mid-presentation | Project Mid Presentation | |
