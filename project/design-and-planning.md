@@ -13,7 +13,7 @@ This will be a living document. For the first sprint you will fill in the docume
 You have to use Github wiki for this document.
 
 **Submission**<br />
-You must send an email to swpp-staff@spl.snu.ac.kr with a PDF version of your document by the deadline.
+You must send an email to swpp.22.staff@spl.snu.ac.kr with a PDF version of your document by the deadline.
 
 You must send the email by the deadline in the class calendar. This is a HARD deadline.
 
