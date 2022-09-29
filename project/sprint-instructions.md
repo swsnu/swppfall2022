@@ -33,7 +33,7 @@ You must specify what tool did you use, and you must include one or more screens
 - Tag a branch or revision in your repository to identify the code you want to submit for sprintN (replace N with 1, 2, ...). The date and time of this revision should be before the deadline. This branch should include a README file with instructions on how to run the application and tests.
 
 **Submission**<br />
-Each team must send an email to swpp-staff@spl.snu.ac.kr by the deadline. The subject line of the email message must start with the word “[SWPP] sprintN” (replace N with 1, 2, ...) followed by your project's name. The email should contain:
+Each team must send an email to swpp.22.ta@spl.snu.ac.kr by the deadline. The subject line of the email message must start with the word “[SWPP] sprintN” (replace N with 1, 2, ...) followed by your project's name. The email should contain:
 Pointers to the (previously submitted) requirements document and design document.
 The sprint summary progress report, as described above.
 Instructions for your TA to be able to check out a tagged version of the code that constitutes your sprint release.  
