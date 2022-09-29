@@ -17,7 +17,7 @@ This will be a living document. For the first sprint you will fill in the overvi
 You have to use the Github wiki of your private team repo.
 
 **Submission**<br />
-You must send an email to swpp-staff@spl.snu.ac.kr with a PDF version of your document.
+You must send an email to swpp.22.staff@spl.snu.ac.kr with a PDF version of your document.
 You must send the email by the deadline in the class calendar. This is a HARD deadline.
 
 
