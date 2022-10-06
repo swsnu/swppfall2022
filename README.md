@@ -27,8 +27,8 @@ There may be some changes to the schedule.
 |9/20, 22| Project sprints; Requirements and specification | React | HW3 out 9/21 |
 |9/27, 29| Testing  | Redux | Project proposal due 9/28 6pm |
 |10/4, 6 | Software development process; Design patterns | Frontend Testing (Jest + Enzyme) | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) |
-|10/11, 13 | Taming complexity; defensive programming; Design patterns | Django | HW3(feature) due 10/12 12pm |
-|10/18, 20 | Design patterns | Django + Python Testing | Project sprint 2 begin, <br/> HW3(testing) due 10/19 12pm, <br/> HW4 out 10/13  |
+|10/11, 13 | Taming complexity; defensive programming; Design patterns | Django | HW3(feature) due 10/12 12pm, <br/> HW4 out 10/13 |
+|10/18, 20 | Design patterns | Django + Python Testing | Project sprint 2 begin, <br/> HW3(testing) due 10/19 12pm  |
 |10/25, 27 | Design patterns; code refactoring | Integration + CI + SonarCloud | |
 |11/1, 3 | Operation | Design Pattern | Project sprint 3 begin, </br> HW4 due 11/2 6pm |
 |11/8, 10 | Operation, Mid-presentation | Project Mid Presentation | |
