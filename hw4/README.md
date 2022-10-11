@@ -181,7 +181,7 @@ You may change this part if you have a better way of handling the CSRF token, bu
 ## Grading
 
 This assignment is composed of a total of 80 points.
-We will test your Django code under Python 3.7, and Django 4.1.2. (You can check your Django version with `pip freeze | grep Django`)
+We will test your Django code under Python 3.9, and Django 4.1.2. (You can check your Django version with `pip freeze | grep Django`)
 
 - User APIs (15 points)
 - Article APIs (20 points)
@@ -214,7 +214,7 @@ A6. Handling 400 bad request is a good practice, and we've covered how to catch 
 
 ## Submission
 
-**Due: 11/04 (Thu) 18:00 (This is a hard deadline)**
+**Due: 11/02 (Wed) 18:00 (This is a hard deadline)**
 
 We will check the snapshot of the default(e.g. main) branch of your Github repository at the deadline and grade it.
 Please name your repository as `swpp-hw4-YOUR_USERNAME`, and replace YOUR_USERNAME with you own GitHub username.

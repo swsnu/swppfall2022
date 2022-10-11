@@ -137,7 +137,7 @@ year,rank,name,gender,rank_change
 
 ### Python (15 points)
 
-We will test your code under Python 3.7.
+We will test your code under Python 3.9.
 
 - `fetch.py` (total 3 points)
   - `safe_internet_fetch` : 1 point
