@@ -55,6 +55,7 @@ The article and author must be a (foreign) key referring an Article and a User.
 To check whether you implemented your model correctly or not, please check the following code works well with your model implementation (in your test code or somewhere else).
 
 ``` python
+from django.contrib.auth.models import User
 from .models import Article, Comment
 
 new_user = User.objects.create_user(username='swpp', password='iluvswpp')  # Django default user model
