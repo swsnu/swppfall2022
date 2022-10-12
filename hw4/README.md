@@ -27,7 +27,7 @@ docker run --rm -it \
     -v ${PWD}:/home \
     snuspl/swpp:hw4
 ```
-(Note that with docker, you have to run server with command `python mamnge.py runserver 0.0.0.0:8000`)
+(Note that with docker, you have to run server with command `python manage.py runserver 0.0.0.0:8000`)
 
 ### Comments on files
 
