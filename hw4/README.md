@@ -15,6 +15,20 @@ Through this assignment, you are expected to:
 - Understand how communication between the client and the server occurs
 - Test your Django application
 
+## Environment
+
+The grading will be conducted in a docker container so that all students' assignments run in the same environment.
+Thus, you should work on your homework using `snuspl/swpp:hw4` image that we uploaded to the dockerhub. Run docker container with the following command. We will use one unified container for frontend and backend. 
+```
+docker run --rm -it \
+    --ipc=host \
+    --name "$container_name" \
+    -p 0.0.0.0:8000:8000\
+    -v ${PWD}:/home \
+    snuspl/swpp:hw4
+```
+(Note that with docker, you have to run server with command `python mamnge.py runserver 0.0.0.0:8000`)
+
 ### Comments on files
 
 Our `myblog` project consists of a single app, `blog`.
