@@ -42,7 +42,7 @@ There may be some changes to the schedule.
 ## Online Office Hours
 **Professor** : 
   - Office: Bldg. 302, Rm. 322
-  - by appointment (TBD)
+  - by appointment
 
 **TAs** :
 
