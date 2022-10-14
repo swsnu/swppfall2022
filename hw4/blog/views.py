@@ -9,7 +9,7 @@ def signup(request):
         req_data = json.loads(request.body.decode())
         username = req_data['username']
         password = req_data['password']
-        User.objects.create_user(username, password)
+        User.objects.create_user(username=username, password=password)
         return HttpResponse(status=201)
     else:
         return HttpResponseNotAllowed(['POST'])
