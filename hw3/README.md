@@ -222,7 +222,7 @@ We will test your code after conducting `yarn install`, so you can import other 
 
 ## Grading
 
-This assignment is composed of a total of 80 points. We will score your feature implementation (**lastest commit before 7 October 6:00 PM**) with our e2e test code, having 55 test cases that reflects the requirements given above. You will get 1 point for each passed test case. Also, we will check your unit test coverage (**latest commit before 14 October 6:00 PM**), which is 25 points in total. Grading details are shown below.
+This assignment is composed of a total of 80 points. We will score your feature implementation (**lastest commit before 12 October 12:00 PM**) with our e2e test code, having 55 test cases that reflects the requirements given above. You will get 1 point for each passed test case. Also, we will check your unit test coverage (**latest commit before 19 October 12:00 PM**), which is 25 points in total. Grading details are shown below.
 
 ### Feature Implementation Score
 The e2e test consist of cases about:
