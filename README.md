@@ -4,7 +4,7 @@
 - [x] [HW1](hw1) out: 9/1 (Thur); due 9/9 (Fri) 6pm
 - [x] [HW2](hw2) out: 9/7 (Wed); due 9/19 (Mon) 6pm
 - [x] Team formation due 9/13 (Tue) 6pm
-- [ ] [HW3](hw3) out: 9/21 (Wed); due 10/12 (Wed) 12pm (Feature), 10/19 (Wed) 12pm (Testing)
+- [x] [HW3](hw3) out: 9/21 (Wed); due 10/12 (Wed) 12pm (Feature), 10/19 (Wed) 12pm (Testing)
 - [x] Project proposal due 9/28 (Wed) 6pm
 - [ ] [HW4](hw4) out: 10/13 (Thur); due 11/2 (Wed) 6pm
 - [ ] Final exam: 11/30 (Wed)
