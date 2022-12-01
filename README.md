@@ -7,7 +7,7 @@
 - [x] [HW3](hw3) out: 9/21 (Wed); due 10/12 (Wed) 12pm (Feature), 10/19 (Wed) 12pm (Testing)
 - [x] Project proposal due 9/28 (Wed) 6pm
 - [x] [HW4](hw4) out: 10/13 (Thur); due 11/2 (Wed) 6pm
-- [ ] Final exam: 11/30 (Wed)
+- [x] Final exam: 11/30 (Wed)
 - [ ] Poster session: 12/14 (Wed) 
 - [ ] Final report: 12/19 6pm (Mon)
 
