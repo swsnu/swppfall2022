@@ -9,6 +9,6 @@ A check list for the poster.
 		- Github: Build software better, together
 
 - Descriptions (2-4 sentences, max 60 words)
-- Use the poster template
+- Use the poster template: A1 size
 - Prepare well for your demo
 
