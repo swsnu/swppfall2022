@@ -39,7 +39,7 @@ There may be some changes to the schedule.
 |12/13, 15 | TBD | Poster Session 12/14 | |
 |12/21 | | | Project final report (due 12/19 6pm) |
 
-## Online Office Hours
+## Office Hours
 **Professor** : 
   - Office: Bldg. 302, Rm. 322
   - by appointment
