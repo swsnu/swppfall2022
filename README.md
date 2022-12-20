@@ -9,7 +9,7 @@
 - [x] [HW4](hw4) out: 10/13 (Thur); due 11/2 (Wed) 6pm
 - [x] Final exam: 11/30 (Wed)
 - [x] Poster session: 12/14 (Wed) 
-- [ ] Final report: 12/19 6pm (Mon)
+- [x] Final report: 12/19 6pm (Mon)
 
 ## [Project Guideline](project)
 
